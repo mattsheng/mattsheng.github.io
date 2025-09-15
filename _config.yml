@@ -197,6 +197,7 @@ exclude:
   - _includes/news.liquid
   - _projects/
   - _pages/projects.md
+  - assets/json/resume.json
 keep_files:
   - CNAME
   - .nojekyll
