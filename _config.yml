@@ -148,9 +148,9 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -193,6 +193,8 @@ exclude:
   - vendor
   - _posts/
   - _pages/blog.md
+  - _news/
+  - _includes/news.liquid
 keep_files:
   - CNAME
   - .nojekyll
