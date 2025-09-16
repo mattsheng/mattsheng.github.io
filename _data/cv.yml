@@ -12,7 +12,7 @@
     - title: Ph.D. in Statistics
       institution: Rice University
       year: 2025
-      
+
     - title: B.S. in Probability and Statistics
       institution: UC San Diego
       year: 2019
@@ -25,11 +25,11 @@
       year: 2025 - Present
     - title: Instructor of Record
       institution: Rice University
-      year: 2020 - 2021, 2023 - 2024
+      year: "2020 - 2021<br>2023 - 2024"
     - title: Graduate Research Assistant
       institution: Rice University
       year: 2019 - 2025
-    - title: Graduate Research Assistant  
+    - title: Graduate Research Assistant
       institution: MD Anderson Cancer Center
       year: 2019 - 2025
     - title: Undergraduate Teaching Assistant
@@ -39,8 +39,8 @@
 - title: Publications
   type: map
   contents:
-      - name: 
-        value: See the <a href="https://mattsheng.github.io/publications/">Publications</a> page for a full list of publications.
+    - name:
+      value: See the <a href="https://mattsheng.github.io/publications/">Publications</a> page for a full list of publications.
 
 - title: Honors and Awards
   type: time_table
@@ -50,10 +50,10 @@
         - ASA Best Student Paper Award, SPES+Q&P Section
     - year: 2022
       items:
-        - Best Poster Award, 2022 ISBA World Meeting
+        - Best Poster Award, ISBA World Meeting
     - year: 2019 - 2023
       items:
-        - Kirschstein-NRSA T32 Graduate Fellow
+        - NIH Kirschstein-NRSA T32 Graduate Fellow
     - year: 2019
       items:
         - Best Undergraduate Teaching Assistant, Department of Mathematics, UC San Diego
