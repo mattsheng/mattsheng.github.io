@@ -31,4 +31,4 @@ I am an assistant professor of instruction in the [Department of Statistics and 
 
 I am passionate about statistics, and my research interests span the areas of nonparametrics, variable selection, and symbolic regression.
 
-In my free time, I enjoy hiking, climbing, making coffee, and wrenching on cars.
+In my free time, I enjoy hiking :mountain:, climbing :climbing:, making coffee :coffee:, and wrenching on cars :wrench:
